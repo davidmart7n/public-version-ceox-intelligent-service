@@ -39,7 +39,7 @@ To demonstrate:
 - **Java 21**
 - **Spring Boot 3**
 - **Maven**
-- (In the original version: **Vertex AI**, **Gemini Pro API**, **Firestore**)
+- **Vertex AI**, **Gemini Pro API**
 
 ---
 
